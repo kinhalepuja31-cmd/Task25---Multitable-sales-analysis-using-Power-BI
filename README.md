@@ -1,4 +1,6 @@
 Project Overview
+
+
 This project delivers an end-to-end Business Intelligence solution using SQL and Power BI to analyze the relational Northwind Traders database. The final interactive dashboard provides executives with a high-level summary of financial performance, customer engagement, regional demand, and product performance.
 Key Performance Indicators (KPIs) Captured:
 
